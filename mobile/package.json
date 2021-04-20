@@ -16,7 +16,7 @@
     "@react-navigation/native": "^5.7.3",
     "@react-navigation/stack": "^5.9.0",
     "@skele/components": "^1.0.0-alpha.40",
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "expo": "~38.0.8",
     "expo-linking": "^1.0.4",
     "expo-local-authentication": "~9.1.1",
